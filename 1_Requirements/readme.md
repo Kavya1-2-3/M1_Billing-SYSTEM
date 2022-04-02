@@ -5,7 +5,7 @@
 * It also help people do the billing process without any errors.
 * It also helps us to do the billing in less time and it also helps to reduces the queqe in the billing counter as it is time saving.
 -------------------------------------------------------------------------------------------------------------------------------------
-FEATURES :
+RESEARCH :
 * Can able to add no.of. items,
 * Shows Purchase date,
 * total bill amount.
