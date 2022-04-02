@@ -12,3 +12,5 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/458e0e448e9f424c9fa5f05ab3bb991f)](https://www.codacy.com/gh/Kavya1-2-3/Main-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kavya1-2-3/Main-project&amp;utm_campaign=Badge_Grade)
 
 [![CI](https://github.com/Kavya1-2-3/M1_Billing-system-main/actions/workflows/1main.yml/badge.svg)](https://github.com/Kavya1-2-3/M1_Billing-system-main/actions/workflows/1main.yml)
+
+[![Code Quality - Static Code - Cppcheck](https://github.com/Kavya1-2-3/M1_Billing-system-main/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/Kavya1-2-3/M1_Billing-system-main/actions/workflows/cppcheck-action.yml)
