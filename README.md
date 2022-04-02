@@ -16,3 +16,5 @@
 [![Code Quality - Static Code - Cppcheck](https://github.com/Kavya1-2-3/M1_Billing-system-main/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/Kavya1-2-3/M1_Billing-system-main/actions/workflows/cppcheck-action.yml)
 
 [![Git Inspector](https://github.com/Kavya1-2-3/M1_Billing-system-main/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/Kavya1-2-3/M1_Billing-system-main/actions/workflows/git%20inspector.yml)
+
+[![Unit Testing](https://github.com/Kavya1-2-3/M1_Billing-system-main/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Kavya1-2-3/M1_Billing-system-main/actions/workflows/unit-test.yml)
