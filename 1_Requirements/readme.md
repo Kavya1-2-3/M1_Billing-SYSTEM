@@ -1,11 +1,11 @@
                                            
  CUSTOMER BILLING SYSTEM 
- ABOUT THE PROJECT :                                     
+ ABOUT THE PROJECT(RESEARCH) :                                     
 * It is a project developed especially to generate customer billing for Medical stores, Cafes, Shops, Supermarket etc
 * It also help people do the billing process without any errors.
 * It also helps us to do the billing in less time and it also helps to reduces the queqe in the billing counter as it is time saving.
 -------------------------------------------------------------------------------------------------------------------------------------
-RESEARCH :
+FEATURES :
 * Can able to add no.of. items,
 * Shows Purchase date,
 * total bill amount.
