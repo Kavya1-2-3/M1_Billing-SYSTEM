@@ -24,6 +24,7 @@
 
 ## OUTPUT
 
+![image](https://user-images.githubusercontent.com/101272208/161386140-a3bf5878-9a82-4cbe-b822-1d9fb4bfd492.png)
 
 
 
