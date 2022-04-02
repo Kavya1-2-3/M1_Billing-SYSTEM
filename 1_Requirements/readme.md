@@ -1,6 +1,5 @@
-                                            
-HIGH LEVEL REQUIREMENTS :
-  CUSTOMER BILLING SYSTEM 
+                                           
+ CUSTOMER BILLING SYSTEM 
  ABOUT THE PROJECT :                                     
 * It is a project developed especially to generate customer billing for Medical stores, Cafes, Shops, Supermarket etc
 * It also help people do the billing process without any errors.
