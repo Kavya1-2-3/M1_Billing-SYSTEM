@@ -38,8 +38,10 @@ TIME AND COST  :
 ------------------------------------------------------------------------------------------------------------------------------
 SWOT ANALYSIS :
 * strength - faster Operation
-* Weakness - nil
-* Oppurtunity - nil
-* Threat - nil
+* Weakness - risk of computer virus
+* Oppurtunity - many businesses can use billing systems
+* Threat - economic or political insecurity.
+
+
 ----------------------------------------------------------------------------------------------------------------------------
 
